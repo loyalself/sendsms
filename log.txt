@@ -1,0 +1,594 @@
+request body = <TemplateSMS>
+                    <to>13636089606</to>
+                    <appId>8a216da85e0e48b2015e1781ab990399</appId>
+                    <templateId>1</templateId>
+                    <datas><data>1</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da85e0e48b2015e1781ab430394/SMS/TemplateSMS?sig=DB0BB1B05F42C3E85D5A6DE57725C585
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>113302</statusCode>
+    <statusMsg>【短信】您正在使用云通讯测试模板且短信接收者不是注册的测试号码</statusMsg>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>13636089601</to> 
+                    <appId>8a216da85e0e48b2015e1781ab990399</appId>
+                    <templateId>1</templateId>
+                    <datas><data>1</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da85e0e48b2015e1781ab430394/SMS/TemplateSMS?sig=1B22E6A5EC5516E2846CD08587E35DAE
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>000000</statusCode>
+    <TemplateSMS>
+        <smsMessageSid>7cbf87a870744cf6b34a1e977fef32f9</smsMessageSid>
+        <dateCreated>20171015214234</dateCreated>
+    </TemplateSMS>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>13636089626</to> 
+                    <appId>8a216da85e0e48b2015e1781ab990399</appId>
+                    <templateId>1</templateId>
+                    <datas><data>1</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da85e0e48b2015e1781ab430394/SMS/TemplateSMS?sig=1E67002A16AD3C5AD8480B9D803E493E
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>113302</statusCode>
+    <statusMsg>【短信】您正在使用云通讯测试模板且短信接收者不是注册的测试号码</statusMsg>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>13636089626</to> 
+                    <appId>8a216da85e0e48b2015e1781ab990399</appId>
+                    <templateId>1</templateId>
+                    <datas><data>1</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da85e0e48b2015e1781ab430394/SMS/TemplateSMS?sig=D7A85DD202788D2771B65067611C90DA
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>113302</statusCode>
+    <statusMsg>【短信】您正在使用云通讯测试模板且短信接收者不是注册的测试号码</statusMsg>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>13636089626</to> 
+                    <appId>8a216da85e0e48b2015e1781ab990399</appId>
+                    <templateId>1</templateId>
+                    <datas><data>1</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da85e0e48b2015e1781ab430394/SMS/TemplateSMS?sig=AB96738B6AA987CAED1A2C244C0B05F6
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>113302</statusCode>
+    <statusMsg>【短信】您正在使用云通讯测试模板且短信接收者不是注册的测试号码</statusMsg>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>13636089626</to> 
+                    <appId>8a216da85e0e48b2015e1781ab990399</appId>
+                    <templateId>1</templateId>
+                    <datas><data>1</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da85e0e48b2015e1781ab430394/SMS/TemplateSMS?sig=CD5554C04331F21E6FB7167226FDA55C
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>113302</statusCode>
+    <statusMsg>【短信】您正在使用云通讯测试模板且短信接收者不是注册的测试号码</statusMsg>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>13636089626</to> 
+                    <appId>8a216da85e0e48b2015e1781ab990399</appId>
+                    <templateId>1</templateId>
+                    <datas><data>1</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da85e0e48b2015e1781ab430394/SMS/TemplateSMS?sig=20F53FB55E95E8601FFF3BB8D483776F
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>113302</statusCode>
+    <statusMsg>【短信】您正在使用云通讯测试模板且短信接收者不是注册的测试号码</statusMsg>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>13636089626</to> 
+                    <appId>8a216da85e0e48b2015e1781ab990399</appId>
+                    <templateId>1</templateId>
+                    <datas><data>1</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da85e0e48b2015e1781ab430394/SMS/TemplateSMS?sig=33DF16CF5705F6A3E786FBED301D9772
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>113302</statusCode>
+    <statusMsg>【短信】您正在使用云通讯测试模板且短信接收者不是注册的测试号码</statusMsg>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>13636089626</to> 
+                    <appId>8a216da85e0e48b2015e1781ab990399</appId>
+                    <templateId>1</templateId>
+                    <datas><data>1</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da85e0e48b2015e1781ab430394/SMS/TemplateSMS?sig=0D118507C30298A5CF536428DEB6C6F1
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>113302</statusCode>
+    <statusMsg>【短信】您正在使用云通讯测试模板且短信接收者不是注册的测试号码</statusMsg>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>13636089626</to> 
+                    <appId>8a216da85e0e48b2015e1781ab990399</appId>
+                    <templateId>1</templateId>
+                    <datas><data>1</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da85e0e48b2015e1781ab430394/SMS/TemplateSMS?sig=0F5CC6CAEFAAEA5466F34D25AED5B677
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>113302</statusCode>
+    <statusMsg>【短信】您正在使用云通讯测试模板且短信接收者不是注册的测试号码</statusMsg>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>13636089626</to> 
+                    <appId>8a216da85e0e48b2015e1781ab990399</appId>
+                    <templateId>1</templateId>
+                    <datas><data>1</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da85e0e48b2015e1781ab430394/SMS/TemplateSMS?sig=565E9DE1454B3C82ABA04DDFEEEA29E7
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>113302</statusCode>
+    <statusMsg>【短信】您正在使用云通讯测试模板且短信接收者不是注册的测试号码</statusMsg>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>13636089626</to> 
+                    <appId>8a216da85e0e48b2015e1781ab990399</appId>
+                    <templateId>1</templateId>
+                    <datas><data>1</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da85e0e48b2015e1781ab430394/SMS/TemplateSMS?sig=8D918DA6B4D842A313941100696E41D0
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>113302</statusCode>
+    <statusMsg>【短信】您正在使用云通讯测试模板且短信接收者不是注册的测试号码</statusMsg>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>13636089626</to> 
+                    <appId>8a216da85e0e48b2015e1781ab990399</appId>
+                    <templateId>1</templateId>
+                    <datas><data>1</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da85e0e48b2015e1781ab430394/SMS/TemplateSMS?sig=36BB545F16232DDCA7C30DA92969DA85
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>113302</statusCode>
+    <statusMsg>【短信】您正在使用云通讯测试模板且短信接收者不是注册的测试号码</statusMsg>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>13636089626</to> 
+                    <appId>8a216da85e0e48b2015e1781ab990399</appId>
+                    <templateId>1</templateId>
+                    <datas><data>1</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da85e0e48b2015e1781ab430394/SMS/TemplateSMS?sig=D18C392C111536ACA4777131ABBB8D02
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>113302</statusCode>
+    <statusMsg>【短信】您正在使用云通讯测试模板且短信接收者不是注册的测试号码</statusMsg>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>13636089626</to> 
+                    <appId>8a216da85e0e48b2015e1781ab990399</appId>
+                    <templateId>1</templateId>
+                    <datas><data>1</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da85e0e48b2015e1781ab430394/SMS/TemplateSMS?sig=63D6FFD8005B698F83203015BDE8680E
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>113302</statusCode>
+    <statusMsg>【短信】您正在使用云通讯测试模板且短信接收者不是注册的测试号码</statusMsg>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>13636089626</to> 
+                    <appId>8a216da85e0e48b2015e1781ab990399</appId>
+                    <templateId>1</templateId>
+                    <datas><data>1</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da85e0e48b2015e1781ab430394/SMS/TemplateSMS?sig=3A631C81373BB0835254868017F533EA
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>113302</statusCode>
+    <statusMsg>【短信】您正在使用云通讯测试模板且短信接收者不是注册的测试号码</statusMsg>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>13636089626</to> 
+                    <appId>8a216da85e0e48b2015e1781ab990399</appId>
+                    <templateId>1</templateId>
+                    <datas><data>1</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da85e0e48b2015e1781ab430394/SMS/TemplateSMS?sig=32357B5A4960D05970C36B962B33B5E0
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>113302</statusCode>
+    <statusMsg>【短信】您正在使用云通讯测试模板且短信接收者不是注册的测试号码</statusMsg>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>13636089626</to> 
+                    <appId>8a216da85e0e48b2015e1781ab990399</appId>
+                    <templateId>1</templateId>
+                    <datas><data>1</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da85e0e48b2015e1781ab430394/SMS/TemplateSMS?sig=BB24232578058FF3F9A5058D9EB8D7E7
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>113302</statusCode>
+    <statusMsg>【短信】您正在使用云通讯测试模板且短信接收者不是注册的测试号码</statusMsg>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>13636089626</to> 
+                    <appId>8a216da85e0e48b2015e1781ab990399</appId>
+                    <templateId>1</templateId>
+                    <datas><data>1</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da85e0e48b2015e1781ab430394/SMS/TemplateSMS?sig=5E39AF1AA519FA1D1EF6BDAF569201A8
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>113302</statusCode>
+    <statusMsg>【短信】您正在使用云通讯测试模板且短信接收者不是注册的测试号码</statusMsg>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>13636089626</to> 
+                    <appId>8a216da85e0e48b2015e1781ab990399</appId>
+                    <templateId>1</templateId>
+                    <datas><data>1</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da85e0e48b2015e1781ab430394/SMS/TemplateSMS?sig=1880BD16A4F65EA96F00B2DE1E29662B
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>113302</statusCode>
+    <statusMsg>【短信】您正在使用云通讯测试模板且短信接收者不是注册的测试号码</statusMsg>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>13636089626</to> 
+                    <appId>8a216da85e0e48b2015e1781ab990399</appId>
+                    <templateId>1</templateId>
+                    <datas><data>1</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da85e0e48b2015e1781ab430394/SMS/TemplateSMS?sig=D9525E630A41DA119A77522A6B94C7DF
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>113302</statusCode>
+    <statusMsg>【短信】您正在使用云通讯测试模板且短信接收者不是注册的测试号码</statusMsg>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>13636089626</to> 
+                    <appId>8a216da85e0e48b2015e1781ab990399</appId>
+                    <templateId>1</templateId>
+                    <datas><data>1</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da85e0e48b2015e1781ab430394/SMS/TemplateSMS?sig=194A6BCE08772A454ED45269F7059891
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>113302</statusCode>
+    <statusMsg>【短信】您正在使用云通讯测试模板且短信接收者不是注册的测试号码</statusMsg>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>13636089626</to> 
+                    <appId>8a216da85e0e48b2015e1781ab990399</appId>
+                    <templateId>1</templateId>
+                    <datas><data>1</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da85e0e48b2015e1781ab430394/SMS/TemplateSMS?sig=DD04EBB24D4BF77FF362A078B0DF7E53
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>113302</statusCode>
+    <statusMsg>【短信】您正在使用云通讯测试模板且短信接收者不是注册的测试号码</statusMsg>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>13636089626</to> 
+                    <appId>8a216da85e0e48b2015e1781ab990399</appId>
+                    <templateId>1</templateId>
+                    <datas><data>1</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da85e0e48b2015e1781ab430394/SMS/TemplateSMS?sig=94A40FFE168C9FDD9D26557439FD4CB2
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>113302</statusCode>
+    <statusMsg>【短信】您正在使用云通讯测试模板且短信接收者不是注册的测试号码</statusMsg>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>13636089626</to> 
+                    <appId>8a216da85e0e48b2015e1781ab990399</appId>
+                    <templateId>1</templateId>
+                    <datas><data>1</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da85e0e48b2015e1781ab430394/SMS/TemplateSMS?sig=B63294B8BF3829346878B83D076E9F19
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>113302</statusCode>
+    <statusMsg>【短信】您正在使用云通讯测试模板且短信接收者不是注册的测试号码</statusMsg>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>13636089626</to> 
+                    <appId>8a216da85e0e48b2015e1781ab990399</appId>
+                    <templateId>1</templateId>
+                    <datas><data>1</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da85e0e48b2015e1781ab430394/SMS/TemplateSMS?sig=8B59F49C9CF9716C11B26B7DB447DB4B
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>113302</statusCode>
+    <statusMsg>【短信】您正在使用云通讯测试模板且短信接收者不是注册的测试号码</statusMsg>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>13636089898</to> 
+                    <appId>8a216da85e0e48b2015e1781ab990399</appId>
+                    <templateId>1</templateId>
+                    <datas><data>1</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da85e0e48b2015e1781ab430394/SMS/TemplateSMS?sig=521A7E83B8F02E20EB6AAFD66AC29E13
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>113302</statusCode>
+    <statusMsg>【短信】您正在使用云通讯测试模板且短信接收者不是注册的测试号码</statusMsg>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>13636089898</to> 
+                    <appId>8a216da85e0e48b2015e1781ab990399</appId>
+                    <templateId>2</templateId>
+                    <datas><data>1</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da85e0e48b2015e1781ab430394/SMS/TemplateSMS?sig=5E576C6932D9AEBE687E1F2390717569
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>160032</statusCode>
+    <statusMsg>短信模板无效</statusMsg>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>13636089601</to> 
+                    <appId>8a216da85e0e48b2015e1781ab990399</appId>
+                    <templateId>1</templateId>
+                    <datas><data>1</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da85e0e48b2015e1781ab430394/SMS/TemplateSMS?sig=81ABF75A10B67E8CDBF1C0CE721D876D
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>000000</statusCode>
+    <TemplateSMS>
+        <smsMessageSid>7fcb1eb23b874fc2b5bbdd224cca2cbc</smsMessageSid>
+        <dateCreated>20171015222525</dateCreated>
+    </TemplateSMS>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>13636089601</to> 
+                    <appId>8a216da85e0e48b2015e1781ab990399</appId>
+                    <templateId>1</templateId>
+                    <datas><data>1</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da85e0e48b2015e1781ab430394/SMS/TemplateSMS?sig=25C37290EA9F15D0AA07770CBFD9AF5C
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>000000</statusCode>
+    <TemplateSMS>
+        <smsMessageSid>e4f1091b70884f079ae921b2585c1194</smsMessageSid>
+        <dateCreated>20171015222633</dateCreated>
+    </TemplateSMS>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>13636089609</to> 
+                    <appId>8a216da85e0e48b2015e1781ab990399</appId>
+                    <templateId>1</templateId>
+                    <datas><data>1</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da85e0e48b2015e1781ab430394/SMS/TemplateSMS?sig=CE05B2C0D2854BDC441A3B56FE38CB33
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>113302</statusCode>
+    <statusMsg>【短信】您正在使用云通讯测试模板且短信接收者不是注册的测试号码</statusMsg>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>13636089609</to> 
+                    <appId>8a216da85e0e48b2015e1781ab990399</appId>
+                    <templateId>1</templateId>
+                    <datas><data>1</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da85e0e48b2015e1781ab430394/SMS/TemplateSMS?sig=B876453F15E010BF3FBF4756E84C99BE
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>113302</statusCode>
+    <statusMsg>【短信】您正在使用云通讯测试模板且短信接收者不是注册的测试号码</statusMsg>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>13636089609</to> 
+                    <appId>8a216da85e0e48b2015e1781ab990399</appId>
+                    <templateId>1</templateId>
+                    <datas><data>1</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da85e0e48b2015e1781ab430394/SMS/TemplateSMS?sig=4F8EAAEC3F80B86D74A75188CD2485C8
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>113302</statusCode>
+    <statusMsg>【短信】您正在使用云通讯测试模板且短信接收者不是注册的测试号码</statusMsg>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>13636089609</to> 
+                    <appId>8a216da85e0e48b2015e1781ab990399</appId>
+                    <templateId>1</templateId>
+                    <datas><data>1</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da85e0e48b2015e1781ab430394/SMS/TemplateSMS?sig=6A901D3352092A3C5DED31EA23E35337
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>113302</statusCode>
+    <statusMsg>【短信】您正在使用云通讯测试模板且短信接收者不是注册的测试号码</statusMsg>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>13636089609</to> 
+                    <appId>8a216da85e0e48b2015e1781ab990399</appId>
+                    <templateId>1</templateId>
+                    <datas><data>1</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da85e0e48b2015e1781ab430394/SMS/TemplateSMS?sig=DFDEEA0A6F5686D5E5A9059DF3BBF066
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>113302</statusCode>
+    <statusMsg>【短信】您正在使用云通讯测试模板且短信接收者不是注册的测试号码</statusMsg>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>13636089609</to> 
+                    <appId>8a216da85e0e48b2015e1781ab990399</appId>
+                    <templateId>1</templateId>
+                    <datas><data>1</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da85e0e48b2015e1781ab430394/SMS/TemplateSMS?sig=D1E9633BD1D82D9E3FADBC48A5F764F9
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>113302</statusCode>
+    <statusMsg>【短信】您正在使用云通讯测试模板且短信接收者不是注册的测试号码</statusMsg>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>13636089609</to> 
+                    <appId>8a216da85e0e48b2015e1781ab990399</appId>
+                    <templateId>1</templateId>
+                    <datas><data>1</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da85e0e48b2015e1781ab430394/SMS/TemplateSMS?sig=16B3DC63D3F19FF43DE6A074934F823C
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>113302</statusCode>
+    <statusMsg>【短信】您正在使用云通讯测试模板且短信接收者不是注册的测试号码</statusMsg>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>13636089609</to> 
+                    <appId>8a216da85e0e48b2015e1781ab990399</appId>
+                    <templateId>1</templateId>
+                    <datas><data>1</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da85e0e48b2015e1781ab430394/SMS/TemplateSMS?sig=7450505EB25DA3D2ABC5EE7689B0F21A
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>113302</statusCode>
+    <statusMsg>【短信】您正在使用云通讯测试模板且短信接收者不是注册的测试号码</statusMsg>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>13636089609</to> 
+                    <appId>8a216da85e0e48b2015e1781ab990399</appId>
+                    <templateId>1</templateId>
+                    <datas><data>1</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da85e0e48b2015e1781ab430394/SMS/TemplateSMS?sig=2F5EFF101C15B3A7B84EF749975B4DA9
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>113302</statusCode>
+    <statusMsg>【短信】您正在使用云通讯测试模板且短信接收者不是注册的测试号码</statusMsg>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>13636089609</to> 
+                    <appId>8a216da85e0e48b2015e1781ab990399</appId>
+                    <templateId>1</templateId>
+                    <datas><data>1</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da85e0e48b2015e1781ab430394/SMS/TemplateSMS?sig=80DAC25ABD957A58610CE587A4E842AA
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>113302</statusCode>
+    <statusMsg>【短信】您正在使用云通讯测试模板且短信接收者不是注册的测试号码</statusMsg>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>13636089609</to> 
+                    <appId>8a216da85e0e48b2015e1781ab990399</appId>
+                    <templateId>1</templateId>
+                    <datas><data>1</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da85e0e48b2015e1781ab430394/SMS/TemplateSMS?sig=031496087BA296F796FA1F23012EB993
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>113302</statusCode>
+    <statusMsg>【短信】您正在使用云通讯测试模板且短信接收者不是注册的测试号码</statusMsg>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>13636089609</to> 
+                    <appId>8a216da85e0e48b2015e1781ab990399</appId>
+                    <templateId>1</templateId>
+                    <datas><data>1</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da85e0e48b2015e1781ab430394/SMS/TemplateSMS?sig=C71622DAD0DD39D70C8DFB86AFC68B07
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>113302</statusCode>
+    <statusMsg>【短信】您正在使用云通讯测试模板且短信接收者不是注册的测试号码</statusMsg>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>13636089609</to> 
+                    <appId>8a216da85e0e48b2015e1781ab990399</appId>
+                    <templateId>1</templateId>
+                    <datas><data>1</data></datas>
+                  </TemplateSMS>
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8a216da85e0e48b2015e1781ab430394/SMS/TemplateSMS?sig=A6E7372B1A26D4AB74CBE90BCA283C2F
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>113302</statusCode>
+    <statusMsg>【短信】您正在使用云通讯测试模板且短信接收者不是注册的测试号码</statusMsg>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>1365686336</to> 
+                    <appId>8a216da85e0e48b2015e1781ab990399</appId>
+                    <templateId>1</templateId>
+                    <datas><data>�</data></datas>
+                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/8a216da85e0e48b2015e1781ab430394/SMS/TemplateSMS?sig=A6927C01A0186A607B80D305E178CC61
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>113302</statusCode>
+    <statusMsg>【短信】您正在使用云通讯测试模板且短信接收者不是注册的测试号码</statusMsg>
+</Response>
+
+request body = <TemplateSMS>
+                    <to>1365686336</to> 
+                    <appId>8a216da85e0e48b2015e1781ab990399</appId>
+                    <templateId>1</templateId>
+                    <datas><data>�</data></datas>
+                  </TemplateSMS>
+request url = https://app.cloopen.com:8883/2013-12-26/Accounts/8a216da85e0e48b2015e1781ab430394/SMS/TemplateSMS?sig=80684C6458D0D7144F780936A6CA1246
+response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Response>
+    <statusCode>113302</statusCode>
+    <statusMsg>【短信】您正在使用云通讯测试模板且短信接收者不是注册的测试号码</statusMsg>
+</Response>
+
