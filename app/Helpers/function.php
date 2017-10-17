@@ -14,7 +14,7 @@ function test()
 function success($data = [])
 {
     return response()->json([
-        "c" => 200,
+        "code" => 200,
         "status" => "success",
         "data" => $data
     ]);
@@ -23,7 +23,7 @@ function success($data = [])
 function error($code, $message)
 {
     return response()->json([
-        "c" => intval($code),
+        "code" => intval($code),
         "status" => "fail",
         "message" => $message
     ]);

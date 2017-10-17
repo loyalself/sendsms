@@ -17,3 +17,4 @@ Route::get('/', function () {
 
 Route::get('sendsms','SendsmsController@sendsms');
 Route::get('sendsms1','Sendsms1Controller@sendsms1');
+Route::any('register','RegisterController@register');

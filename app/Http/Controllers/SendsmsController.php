@@ -26,7 +26,8 @@ class SendsmsController extends Controller
        $sendtemplatesms = new SendTemplateSMS();
        $result = $sendtemplatesms->sendTemplateSMS(request('phone'),'1000',1);
        //return $result;
-        //获取$result这个对象中的code码
+        /*获取$result这个对象中的code码,用到getData()方法，然后取键值
+        这里的code是你公共函数里定义的，自己定义的*/
         //dd($result->getData()->code);
         if($result->getData()->code == 200)
         {
